@@ -25,6 +25,7 @@ requirements:
     - perl-try-tiny
   run:
     - perl
+    - perl-try-tiny
 
 test:
   imports:
